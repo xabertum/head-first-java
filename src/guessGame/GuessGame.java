@@ -27,7 +27,11 @@ public class GuessGame {
 			
 			System.out.println("Number to guess is: " + targetNumber);
 			
+			p1.guess();
+			p2.guess();
+			p3.guess();
 			
+			guessp1 = p1.number;
 			
 			
 		}
