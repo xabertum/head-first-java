@@ -4,7 +4,10 @@ public class headFirstMain {
 
 	public static void main (String[] args) {
 		
-		System.out.println("Vamos Bien...");
+		Dog dog1 = new Dog();
+		dog1.size = 40;
+		dog1.bark();
+		
 	}
 	
 	
