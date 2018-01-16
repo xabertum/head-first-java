@@ -21,7 +21,7 @@ public class BeerSong {
 			System.out.println(beerNum + "" + word + " of beer");
 			System.out.println("Take one down");
 			System.out.println("Pass it around");
-			beerNum = beerNum -1;
+			beerNum = beerNum - 1;
 			
 			
 			
