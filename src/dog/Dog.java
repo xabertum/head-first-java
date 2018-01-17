@@ -32,6 +32,10 @@ public class Dog {
 	// now access the Digs using the Array
 	// references
 	
+	myDogs[1].dogName = "Fred";
+	myDogs[2].dogName = "Marge";
+	
+	
 	
 	
 	
