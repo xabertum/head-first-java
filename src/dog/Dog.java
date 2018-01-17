@@ -29,11 +29,13 @@ public class Dog {
 	myDogs[1] = new Dog();
 	myDogs[2] = new Dog();
 	
-	// now access the Digs using the Array
+	// now access the Dogs using the Array
 	// references
 	
 	myDogs[1].dogName = "Fred";
 	myDogs[2].dogName = "Marge";
+	
+	System.out.println("Last dog name is " + myDogs[0].dogName);
 	
 	
 	
