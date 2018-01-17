@@ -50,7 +50,7 @@ public class GuessGame {
 				System.out.println("Player two got it right? " + p2isRight);
 				System.out.println("Player three got it right? " + p3isRight);
 				System.out.println("Game is over.");
-				break; //game over, so break out of the loop
+				break; // game over, so break out of the loop
 								
 			} else {
 				// we must keep going because nobody got it right!
